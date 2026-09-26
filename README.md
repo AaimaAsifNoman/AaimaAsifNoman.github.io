@@ -1,1 +1,82 @@
 # AaimaAsifNoman.github.io
+html
+
+<!DOCTYPE html>
+html Lange="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resource Hub | Created by Aaima</title>
+    <style>
+        body {
+            front-family: Arial, sans-serif;
+            background-colour: #f4f7f6;
+            color: #333; 
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 25px;
+            text-align: center;
+            border-radius: 8px;
+        {
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        { 
+        ul {
+           line-height: 1.8;
+        {
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #666;
+        {
+    </style>
+</head>  
+<body>
+
+    <header>
+        <h1>Welcome to My Resource Hub</h1>
+        <p>Curated study guides, summary notes, and learning resources.</p>
+    </header>
+
+    <main>
+        <h2>About This Site</h2>
+    <p>This Website was created to help students easily organized revision materials and study resources in one place.</p>
+
+        <h2>Featured Topics</h2>
+        <ul>
+            <li>Science Notes & Summaries</li>
+            <li>Mathematics Formula Cheat Sheets</li>
+            <li>Study Guides & Essay Templates</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>Designed, Coded, and Maintained by <strong>Aaima</strong></p>
+    </footer>
+
+</body>
+</html>
+
+          
+
+
+
+
+        
+  
+
+    
+
+        
+
+    </style>
